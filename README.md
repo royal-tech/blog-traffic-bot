@@ -10,7 +10,7 @@ pkg install python2
 
 pkg install git
 
-git clone 
+git clone https://github.com/royal-tech/blog-traffic-bot.git 
 
 cd blog-traffic-bot
 
