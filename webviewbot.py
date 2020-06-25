@@ -47,7 +47,7 @@ def referer_list():
 	global headers_referers
 	headers_referers.append('http://www.google.com/?q=')
 	headers_referers.append('http://www.usatoday.com/search/results?q=')
-	headers_referers.append('http://engadget.search.aol.com/search?q=')
+	headers_referers.append('http://www.google.com/?q=')
 	headers_referers.append('http://' + host + '/')
 	return(headers_referers)
 	
